@@ -2,6 +2,7 @@
 /* reset styles */
 html {
    font-size: 20px;
+   width: 100%;
 }
 a, article, body, div, figcaption, figure, form, fieldset, text-area, 
 footer, header, h1, h2, h3, img, nav, p, dl, dt, dd, ul, li, ol {
@@ -17,7 +18,6 @@ ul, ol{
 /* body and page container */
 body {
    font-family: Arial, Helvetica, sans-serif;
-   max-width: 1000%;
 }
 .container {
    max-width: 100%;
